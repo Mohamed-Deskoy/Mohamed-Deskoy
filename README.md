@@ -24,5 +24,6 @@
 ![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=Jira&link=http://right&logoColor=ffffff)
 ![Cucumber](https://img.shields.io/badge/cucumber-80bf26?style=for-the-badge&logo=Cucumber&link=http://right&logoColor=ffffff)
 ![TestNg](https://img.shields.io/badge/testng-61DAFB?style=for-the-badge&logo=TestNg&link=http://right&logoColor=ffffff)
-
+![Junit](https://img.shields.io/badge/Junit-F05032?style=for-the-badge&logo=git&link=http://right&logoColor=ffffff)
+![Jmeter](https://img.shields.io/badge/Jmeter-7FFF00?style=for-the-badge&logo=Selenium&link=http://right&logoColor=ffffff)
 
