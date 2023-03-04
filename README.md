@@ -16,12 +16,12 @@
 
 ##### Languages tools and technologies:
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&link=http://right&logoColor=ffffff)
-![Selenium](https://img.shields.io/badge/Selenium-7FFF00?style=for-the-badge&logo=Selenium&link=http://right&logoColor=7CFC00)
+![Selenium](https://img.shields.io/badge/selenium-7FFF00?style=for-the-badge&logo=Selenium&link=http://right&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&link=http://right&logoColor=ffffff)
-![Trello](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=Trello=http://right&logoColor=ffffff)
+![Trello](https://img.shields.io/badge/trello-0084D1?style=for-the-badge&logo=Trello=http://right&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&link=http://right&logoColor=ffffff)
 ![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=Jira&link=http://right&logoColor=ffffff)
-![Cucumber](https://img.shields.io/badge/mocha-8D6748?style=for-the-badge&logo=Cucumber&link=http://right&logoColor=ffffff)
-![Test Ng](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=TestNg&link=http://right&logoColor=ffffff)
+![Cucumber](https://img.shields.io/badge/cucumber-80bf26?style=for-the-badge&logo=Cucumber&link=http://right&logoColor=ffffff)
+![TestNg](https://img.shields.io/badge/testng-61DAFB?style=for-the-badge&logo=TestNg&link=http://right&logoColor=ffffff)
 
 
