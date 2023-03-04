@@ -10,8 +10,8 @@
 
 
 ##### In love with: 
-![Java](https://img.shields.io/badge/Cypress.io-17202C?style=for-the-badge&logo=cypress&link=http://right)
-![C++](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&link=http://right&logoColor=000000)
+![Java](https://img.shields.io/badge/Cypress.io-17202C?style=for-the-badge&logo=Java&link=http://right)
+![C++](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=C++t&link=http://right&logoColor=000000)
 
 
 ##### Languages tools and technologies:
