@@ -16,7 +16,7 @@
 
 ##### Languages tools and technologies:
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&link=http://right&logoColor=ffffff)
-![Selenium](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&link=http://right&logoColor=ffffff)
+![Selenium](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=Selenium&link=http://right&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&link=http://right&logoColor=ffffff)
 ![Trello](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&link=http://right&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&link=http://right&logoColor=ffffff)
