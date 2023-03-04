@@ -12,6 +12,7 @@
 ##### In love with: 
 ![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=Java&link=http://right)
 ![C++](https://img.shields.io/badge/C++-0052CC?style=for-the-badge&logo=C++t&link=http://right&logoColor=000000)
+![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=C++t&link=http://right&logoColor=000000)
 
 
 ##### Languages tools and technologies:
