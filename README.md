@@ -1,11 +1,10 @@
 ### Hello, My name is Mohamed Ahmed
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&link=http://right)](https://www.linkedin.com/in/mohamed8ahmed/)
-[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&link=http://right&logoColor=ffffff)](mailto:mohamedahmeddeskoy@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&link=http://right&logoColor=ffffff)](mailto:mohamedahmed.desouki1@gmail.com)
 
 
 - An Quality Control Engineer 💻
-- I am a computer science Student (exp Graduate july 2023 ) 
 - Automation Projects and pipelines 🌪️
 
 
